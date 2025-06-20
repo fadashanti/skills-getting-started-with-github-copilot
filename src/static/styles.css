@@ -142,3 +142,22 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.participants-section {
+  margin-top: 10px;
+  padding: 8px 10px;
+  background-color: #eef4fa;
+  border-radius: 4px;
+  border: 1px solid #dbeafe;
+}
+
+.participants-list {
+  margin: 6px 0 0 18px;
+  padding: 0;
+}
+
+.participant-email {
+  color: #1a237e;
+  font-size: 0.97em;
+  word-break: break-all;
+}
